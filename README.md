@@ -1,3 +1,4 @@
+## How to use the middleware?
 ```
 const authModule = require('./index');
 
